@@ -48,7 +48,6 @@ Para garantir uma análise robusta e estratégica no projeto Bike Store, desenvo
 Já a camada de Inteligência Temporal permitiu análises comparativas com o mês anterior, o ano anterior e o acumulado do ano (Sales LM, LY e YTD), incluindo seus deltas e variações percentuais. Essas medidas possibilitaram a criação de visuais que mostram a evolução das vendas ao longo do tempo, enriquecendo a análise e apoiando decisões estratégicas.
 
 <br>
-<br>
 
 ### PÁG 01 - VISÃO GERAL
 A página Visão Geral do dashboard da MagrelaStore foi desenvolvida para oferecer uma leitura clara e estratégica sobre o desempenho da loja nos anos de 2014 e 2015. A partir da modelagem estrela construída no SQL Server, os dados foram organizados em uma estrutura que permite acompanhar os principais indicadores de forma intuitiva no Power BI.
