@@ -36,3 +36,13 @@ Em torno dela, desenvolvi as tabelas dimensão:
 - Dim_Geographic (localização)<br>
 <br>
 Cada tabela foi construída com colunas específicas de seu respectivo grupo, garantindo uma segmentação lógica e eficiente. Por fim, estabeleci os relacionamentos entre as tabelas utilizando chaves primárias e estrangeiras, garantindo integrações do tipo um-para-muitos, essenciais para a análise no Power BI.
+<br>
+
+## DASHBOARD
+### PÁG 01 - VISÃO GERAL
+A página "Visão Geral" do dashboard da MagrelaStore foi desenvolvida para oferecer uma leitura clara e estratégica sobre o desempenho da loja nos anos de 2014 e 2015. A partir da modelagem estrela construída no SQL Server, os dados foram organizados em uma estrutura que permite acompanhar os principais indicadores de forma intuitiva no Power BI.
+<p align="center"><img src="https://github.com/LuanMagalhaes28/BikePortifolio/blob/main/Prints/Visao%20Geral.png?raw=true" width="800"></p>
+Logo no topo, é possível visualizar os KPIs mais relevantes: Vendas Totais (€9,9 milhões), Custo Total (€4,4 milhões), Lucro (€5,6 milhões), Quantidade Vendida (940 mil unidades) e um destaque para o delta negativo de –€159 mil no comparativo Year to Date em relação ao ano anterior, alertando para uma queda acumulada nas vendas.
+
+
+
