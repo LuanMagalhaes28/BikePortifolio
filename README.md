@@ -90,7 +90,7 @@ Já Austrália e França, apesar de boa participação em vendas, operam com mar
 
 Esses insights permitem estratégias regionais mais assertivas: intensificar ações comerciais nos EUA, explorar o modelo do Canadá como referência de rentabilidade e reavaliar margens em regiões com menor eficiência.
 
-## DASHBOARD POWER BI
+### DASHBOARD POWER BI
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYTExYzFlMTItZjEyOC00NTg4LTlhNzItZjRlNmY4MDMwNmE2IiwidCI6IjMwYzg4YTkyLTQ0YWUtNGRmNS1hZTYwLTdlMmJkNGIyYjllOSJ9" target="_blank">Clique aqui</a> e acesse o dashboard de forma interativa no Power BI.
 
 
